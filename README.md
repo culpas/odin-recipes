@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I build a basic recipe website. The website contains a main index page with links to a few recipes. This project shows that I'm able to work with HTML, Git and GitHub.
